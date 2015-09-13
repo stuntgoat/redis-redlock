@@ -1,6 +1,11 @@
 # `redis-redlock`
 draft of redlock http://redis.io/topics/distlock
 
+### `requirements`
+
+`redis` [https://github.com/andymccurdy/redis-py](https://github.com/andymccurdy/redis-py)
+
+-------------------------------------------
 
 Example:
 
